@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+button{
+  padding: 7px 25px;
+  cursor: pointer;
+  border: .5px solid #000;
+  font-size: 17px;
+  font-weight: 500;
+  background-color: #F55229;
+}
+
+.divACom{
+  background-color: #F4CB00;
+}
+
+p{
+  padding-left: 25px;
+}
+
+h2{
+  padding-top: 15px;
+}
